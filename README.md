@@ -8,3 +8,6 @@
 <br/>-en la restricción, "restDobleFusion", mejora esta para que solo valide a conjunto de letras válidas por la gramática española: ch,ll,rr.
 <br/>Version 1.3, cambios:
 <br/>-Acepte caracteres propios del idioma español.
+<br/>Version 1.4, cambios:
+<br/>-nueva restricción de vocales (í,ú) como vocales fuertes para el hiato.
+<br/>-se agregó al caracter ü como vocal débil.
